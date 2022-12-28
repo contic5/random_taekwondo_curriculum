@@ -1,0 +1,9 @@
+Ground
+Sky
+Underground
+Forest
+Ghost
+Desert
+Airship
+Snow
+Castle
